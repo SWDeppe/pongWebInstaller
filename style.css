@@ -1,6 +1,6 @@
 .installBtn {
   position: absolute;
-  margin-left: 35vw;
+  margin-left: calc(50vw - 100px);
   margin-top: 10vw;
   padding: 20px;
   color: black;
